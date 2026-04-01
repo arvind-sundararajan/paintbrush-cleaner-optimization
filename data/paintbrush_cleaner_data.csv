@@ -1,0 +1,7 @@
+brush_type,bristle_material,handle_material,solvent_type,efficacy_score
+Soft,Nylon,Wood,Water,8
+Medium,Polyester,Plastic,Mineral Spirits,7
+Hard,Nylon,Wood,Mineral Spirits,9
+Soft,Polyester,Plastic,Water,6
+Medium,Nylon,Wood,Water,8
+Hard,Polyester,Plastic,Mineral Spirits,8
